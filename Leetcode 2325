@@ -1,0 +1,55 @@
+# 2325. Decode the Message
+
+## Intuition
+
+The key represents a substitution cipher where the **first occurrence** of each unique character determines its mapping. Starting from `'a'`, each new character in the key is assigned the next letter of the English alphabet. Once the mapping is built, every character in the message is replaced using this mapping, while spaces remain unchanged.
+
+## Approach
+
+1. Create a `HashMap<Character, Character>` to store the substitution mapping.
+2. Traverse the `key`.
+
+   * Ignore spaces.
+   * If a character appears for the first time, map it to the current alphabet character (`'a'`, `'b'`, `'c'`, ...).
+3. Traverse the `message`.
+
+   * If the character is a space, append it directly.
+   * Otherwise, append its mapped character from the `HashMap`.
+4. Return the decoded message.
+
+## Complexity Analysis
+
+* **Time Complexity:** `O(n + m)`
+
+  * `n` = length of `key`
+  * `m` = length of `message`
+* **Space Complexity:** `O(26)` ≈ `O(1)`
+
+## Java Solution
+
+class Solution {
+    public String decodeMessage(String key, String message) {
+        HashMap<Character,Character> map = new HashMap<>();
+        char ch='a';
+        String res="";
+        for(Character ke:key.toCharArray()){
+            if(ke==' '){
+                continue;
+            }
+            if(!map.containsKey(ke))
+            map.put(ke,(char)ch++);
+        }
+        StringBuilder sb = new StringBuilder();
+        for(int i=0;i<message.length();i++){
+            char a=message.charAt(i);
+            if(a==' '){
+                sb.append(" ");
+            }
+            if(map.containsKey(a)){
+                sb.append(map.get(a));
+            }
+        }
+        res=sb.toString();
+        return res;
+    }
+}

@@ -24,6 +24,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adhithya2403/SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 ## Sorting
@@ -43,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adhithya2403/SOLUTION/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->

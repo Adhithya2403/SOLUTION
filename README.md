@@ -8,6 +8,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Adhithya2403/SOLUTION/tree/main/1528-shuffle-string/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
@@ -86,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 <!---LeetCode Topics End-->

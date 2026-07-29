@@ -100,5 +100,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1693-daily-leads-and-partners](https://github.com/Adhithya2403/SOLUTION/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Adhithya2403/SOLUTION/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->

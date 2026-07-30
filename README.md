@@ -14,6 +14,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |

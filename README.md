@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Adhithya2403/SOLUTION/tree/main/1528-shuffle-string/) | Easy |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -100,6 +102,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -124,4 +127,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
+| [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->

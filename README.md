@@ -134,4 +134,8 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/Adhithya2403/SOLUTION/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->

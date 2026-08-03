@@ -9,6 +9,7 @@
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adhithya2403/SOLUTION/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Adhithya2403/SOLUTION/tree/main/1528-shuffle-string/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -39,6 +40,7 @@
 | [0371-sum-of-two-integers](https://github.com/Adhithya2403/SOLUTION/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -140,8 +143,17 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/Adhithya2403/SOLUTION/tree/main/0195-tenth-line/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->

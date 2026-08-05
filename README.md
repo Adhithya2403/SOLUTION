@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
+| [0198-house-robber](https://github.com/Adhithya2403/SOLUTION/tree/main/0198-house-robber/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
@@ -148,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
+| [0198-house-robber](https://github.com/Adhithya2403/SOLUTION/tree/main/0198-house-robber/) | Medium |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 ## Shell

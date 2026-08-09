@@ -29,6 +29,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adhithya2403/SOLUTION/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Adhithya2403/SOLUTION/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -136,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

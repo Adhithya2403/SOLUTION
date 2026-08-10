@@ -9,6 +9,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adhithya2403/SOLUTION/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -50,6 +51,7 @@
 | [0371-sum-of-two-integers](https://github.com/Adhithya2403/SOLUTION/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -176,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 <!---LeetCode Topics End-->

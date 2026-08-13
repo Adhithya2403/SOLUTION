@@ -160,6 +160,7 @@
 | [1068-product-sales-analysis-i](https://github.com/Adhithya2403/SOLUTION/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Adhithya2403/SOLUTION/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Adhithya2403/SOLUTION/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Adhithya2403/SOLUTION/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Adhithya2403/SOLUTION/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

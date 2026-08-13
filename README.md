@@ -23,6 +23,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhithya2403/SOLUTION/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -78,6 +79,7 @@
 | [1528-shuffle-string](https://github.com/Adhithya2403/SOLUTION/tree/main/1528-shuffle-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adhithya2403/SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -197,4 +199,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->

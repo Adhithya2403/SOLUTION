@@ -76,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1528-shuffle-string](https://github.com/Adhithya2403/SOLUTION/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -199,6 +200,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Geometry

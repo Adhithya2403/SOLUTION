@@ -81,6 +81,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adhithya2403/SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -94,6 +95,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhithya2403/SOLUTION/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2974-minimum-number-game](https://github.com/Adhithya2403/SOLUTION/tree/main/2974-minimum-number-game/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -215,4 +217,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adhithya2403/SOLUTION/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->

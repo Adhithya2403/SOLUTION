@@ -7,6 +7,7 @@
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/Adhithya2403/SOLUTION/tree/main/0198-house-robber/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -73,6 +74,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Adhithya2403/SOLUTION/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -118,6 +120,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adhithya2403/SOLUTION/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2974-minimum-number-game](https://github.com/Adhithya2403/SOLUTION/tree/main/2974-minimum-number-game/) | Easy |
@@ -127,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/Adhithya2403/SOLUTION/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adhithya2403/SOLUTION/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -208,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |

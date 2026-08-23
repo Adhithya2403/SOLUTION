@@ -7,6 +7,7 @@
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/Adhithya2403/SOLUTION/tree/main/0198-house-robber/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adhithya2403/SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -86,6 +88,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1528-shuffle-string](https://github.com/Adhithya2403/SOLUTION/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |

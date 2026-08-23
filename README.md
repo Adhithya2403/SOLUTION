@@ -43,6 +43,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adhithya2403/SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Adhithya2403/SOLUTION/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
+| [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | [2974-minimum-number-game](https://github.com/Adhithya2403/SOLUTION/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
+| [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

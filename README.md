@@ -23,6 +23,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adhithya2403/SOLUTION/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhithya2403/SOLUTION/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -115,6 +116,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhithya2403/SOLUTION/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2974-minimum-number-game](https://github.com/Adhithya2403/SOLUTION/tree/main/2974-minimum-number-game/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -249,4 +251,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->

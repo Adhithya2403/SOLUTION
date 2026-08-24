@@ -23,6 +23,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adhithya2403/SOLUTION/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -71,6 +72,7 @@
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Adhithya2403/SOLUTION/tree/main/1927-sum-game/) | Medium |
 | [2544-alternating-digit-sum](https://github.com/Adhithya2403/SOLUTION/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -174,6 +176,7 @@
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Adhithya2403/SOLUTION/tree/main/1927-sum-game/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -183,6 +186,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -213,6 +217,7 @@
 | [0198-house-robber](https://github.com/Adhithya2403/SOLUTION/tree/main/0198-house-robber/) | Medium |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,10 +226,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

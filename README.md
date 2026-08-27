@@ -102,6 +102,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adhithya2403/SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/Adhithya2403/SOLUTION/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1927-sum-game](https://github.com/Adhithya2403/SOLUTION/tree/main/1927-sum-game/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Adhithya2403/SOLUTION/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |

@@ -115,6 +115,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Adhithya2403/SOLUTION/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sorting
@@ -147,6 +148,7 @@
 | [1603-design-parking-system](https://github.com/Adhithya2403/SOLUTION/tree/main/1603-design-parking-system/) | Easy |
 | [2974-minimum-number-game](https://github.com/Adhithya2403/SOLUTION/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Bit Manipulation
@@ -163,6 +165,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adhithya2403/SOLUTION/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

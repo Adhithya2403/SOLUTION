@@ -52,6 +52,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/Adhithya2403/SOLUTION/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adhithya2403/SOLUTION/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

@@ -43,6 +43,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3151-special-array-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Adhithya2403/SOLUTION/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
@@ -119,6 +120,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
+| [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sorting
@@ -153,6 +155,7 @@
 | [2974-minimum-number-game](https://github.com/Adhithya2403/SOLUTION/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
+| [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Bit Manipulation

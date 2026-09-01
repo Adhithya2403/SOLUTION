@@ -47,6 +47,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adhithya2403/SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Adhithya2403/SOLUTION/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Adhithya2403/SOLUTION/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |

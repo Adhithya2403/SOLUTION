@@ -41,6 +41,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adhithya2403/SOLUTION/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3151-special-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3151-special-array-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Adhithya2403/SOLUTION/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |

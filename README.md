@@ -124,6 +124,7 @@
 | [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Bit Manipulation
@@ -264,6 +266,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |

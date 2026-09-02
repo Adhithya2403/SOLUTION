@@ -8,6 +8,7 @@
 | [0198-house-robber](https://github.com/Adhithya2403/SOLUTION/tree/main/0198-house-robber/) | Medium |
 | [0561-array-partition](https://github.com/Adhithya2403/SOLUTION/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0682-baseball-game/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
@@ -156,6 +157,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adhithya2403/SOLUTION/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -178,6 +180,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adhithya2403/SOLUTION/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |

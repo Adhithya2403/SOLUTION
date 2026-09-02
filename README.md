@@ -12,6 +12,7 @@
 | [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adhithya2403/SOLUTION/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -108,6 +109,7 @@
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1528-shuffle-string](https://github.com/Adhithya2403/SOLUTION/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhithya2403/SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -197,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Adhithya2403/SOLUTION/tree/main/0561-array-partition/) | Easy |
+| [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1927-sum-game](https://github.com/Adhithya2403/SOLUTION/tree/main/1927-sum-game/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhithya2403/SOLUTION/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -272,6 +275,7 @@
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
+| [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |

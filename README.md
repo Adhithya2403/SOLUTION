@@ -15,6 +15,7 @@
 | [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhithya2403/SOLUTION/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adhithya2403/SOLUTION/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -140,6 +141,7 @@
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0561-array-partition](https://github.com/Adhithya2403/SOLUTION/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhithya2403/SOLUTION/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -176,6 +178,7 @@
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/Adhithya2403/SOLUTION/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Adhithya2403/SOLUTION/tree/main/0832-flipping-an-image/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhithya2403/SOLUTION/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adhithya2403/SOLUTION/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -190,6 +193,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhithya2403/SOLUTION/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1603-design-parking-system](https://github.com/Adhithya2403/SOLUTION/tree/main/1603-design-parking-system/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |

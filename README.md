@@ -27,6 +27,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adhithya2403/SOLUTION/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Adhithya2403/SOLUTION/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adhithya2403/SOLUTION/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -209,6 +210,7 @@
 | [0561-array-partition](https://github.com/Adhithya2403/SOLUTION/tree/main/0561-array-partition/) | Easy |
 | [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adhithya2403/SOLUTION/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1927-sum-game](https://github.com/Adhithya2403/SOLUTION/tree/main/1927-sum-game/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhithya2403/SOLUTION/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |

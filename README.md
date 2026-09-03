@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adhithya2403/SOLUTION/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/Adhithya2403/SOLUTION/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/Adhithya2403/SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
 | [0561-array-partition](https://github.com/Adhithya2403/SOLUTION/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0682-baseball-game/) | Easy |
@@ -65,6 +66,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Adhithya2403/SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -148,6 +150,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Adhithya2403/SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0561-array-partition](https://github.com/Adhithya2403/SOLUTION/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |

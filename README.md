@@ -102,6 +102,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Adhithya2403/SOLUTION/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Adhithya2403/SOLUTION/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

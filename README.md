@@ -96,6 +96,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Adhithya2403/SOLUTION/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adhithya2403/SOLUTION/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -139,6 +140,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
@@ -179,6 +181,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
@@ -322,4 +325,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Adhithya2403/SOLUTION/tree/main/1603-design-parking-system/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 <!---LeetCode Topics End-->

@@ -63,6 +63,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -248,6 +249,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -64,6 +64,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3917-count-indices-with-opposite-parity](https://github.com/Adhithya2403/SOLUTION/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Adhithya2403/SOLUTION/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |

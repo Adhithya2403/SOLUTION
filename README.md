@@ -138,6 +138,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Adhithya2403/SOLUTION/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2315-count-asterisks](https://github.com/Adhithya2403/SOLUTION/tree/main/2315-count-asterisks/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Adhithya2403/SOLUTION/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Adhithya2403/SOLUTION/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -228,6 +229,7 @@
 | [1927-sum-game](https://github.com/Adhithya2403/SOLUTION/tree/main/1927-sum-game/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhithya2403/SOLUTION/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Adhithya2403/SOLUTION/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Adhithya2403/SOLUTION/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -303,6 +305,7 @@
 | [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Adhithya2403/SOLUTION/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Geometry

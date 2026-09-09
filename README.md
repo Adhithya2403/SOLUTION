@@ -38,6 +38,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -78,6 +79,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -306,6 +308,7 @@
 | [0942-di-string-match](https://github.com/Adhithya2403/SOLUTION/tree/main/0942-di-string-match/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Adhithya2403/SOLUTION/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |

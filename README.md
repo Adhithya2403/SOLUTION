@@ -159,6 +159,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Adhithya2403/SOLUTION/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Adhithya2403/SOLUTION/tree/main/3894-traffic-signal-color/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Adhithya2403/SOLUTION/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Sorting
@@ -319,6 +320,7 @@
 | [2697-lexicographically-smallest-palindrome](https://github.com/Adhithya2403/SOLUTION/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Adhithya2403/SOLUTION/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |

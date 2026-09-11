@@ -368,4 +368,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Adhithya2403/SOLUTION/tree/main/0938-range-sum-of-bst/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Adhithya2403/SOLUTION/tree/main/0938-range-sum-of-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Adhithya2403/SOLUTION/tree/main/0938-range-sum-of-bst/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Adhithya2403/SOLUTION/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->

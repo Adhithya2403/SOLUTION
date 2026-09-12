@@ -58,6 +58,7 @@
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Adhithya2403/SOLUTION/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adhithya2403/SOLUTION/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adhithya2403/SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -183,6 +184,7 @@
 | [2974-minimum-number-game](https://github.com/Adhithya2403/SOLUTION/tree/main/2974-minimum-number-game/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adhithya2403/SOLUTION/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
@@ -299,6 +301,7 @@
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1872-stone-game-viii](https://github.com/Adhithya2403/SOLUTION/tree/main/1872-stone-game-viii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adhithya2403/SOLUTION/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +385,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Adhithya2403/SOLUTION/tree/main/0938-range-sum-of-bst/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adhithya2403/SOLUTION/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

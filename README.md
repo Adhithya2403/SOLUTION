@@ -159,6 +159,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Adhithya2403/SOLUTION/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3019-number-of-changing-keys](https://github.com/Adhithya2403/SOLUTION/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3174-clear-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |

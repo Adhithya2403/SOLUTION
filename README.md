@@ -76,6 +76,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Adhithya2403/SOLUTION/tree/main/0076-minimum-window-substring/) | Hard |
 | [0217-contains-duplicate](https://github.com/Adhithya2403/SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -134,6 +135,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Adhithya2403/SOLUTION/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/Adhithya2403/SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Adhithya2403/SOLUTION/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -391,4 +393,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Adhithya2403/SOLUTION/tree/main/0938-range-sum-of-bst/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Adhithya2403/SOLUTION/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->

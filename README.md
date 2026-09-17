@@ -44,6 +44,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2678-number-of-senior-citizens](https://github.com/Adhithya2403/SOLUTION/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Adhithya2403/SOLUTION/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -155,6 +156,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Adhithya2403/SOLUTION/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2315-count-asterisks](https://github.com/Adhithya2403/SOLUTION/tree/main/2315-count-asterisks/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/Adhithya2403/SOLUTION/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Adhithya2403/SOLUTION/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adhithya2403/SOLUTION/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Adhithya2403/SOLUTION/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |

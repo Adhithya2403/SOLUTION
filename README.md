@@ -17,6 +17,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhithya2403/SOLUTION/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Adhithya2403/SOLUTION/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhithya2403/SOLUTION/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adhithya2403/SOLUTION/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
@@ -111,6 +112,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Adhithya2403/SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhithya2403/SOLUTION/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1406-stone-game-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adhithya2403/SOLUTION/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adhithya2403/SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |

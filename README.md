@@ -68,6 +68,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Adhithya2403/SOLUTION/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adhithya2403/SOLUTION/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Adhithya2403/SOLUTION/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
@@ -126,6 +127,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhithya2403/SOLUTION/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adhithya2403/SOLUTION/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adhithya2403/SOLUTION/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Adhithya2403/SOLUTION/tree/main/3870-count-commas-in-range/) | Easy |

@@ -58,6 +58,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3151-special-array-i/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adhithya2403/SOLUTION/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adhithya2403/SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
@@ -104,6 +105,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adhithya2403/SOLUTION/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adhithya2403/SOLUTION/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adhithya2403/SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -238,6 +240,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhithya2403/SOLUTION/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adhithya2403/SOLUTION/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adhithya2403/SOLUTION/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |

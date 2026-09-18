@@ -87,6 +87,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adhithya2403/SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Adhithya2403/SOLUTION/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Adhithya2403/SOLUTION/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -152,6 +153,7 @@
 | [1859-sorting-the-sentence](https://github.com/Adhithya2403/SOLUTION/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1927-sum-game](https://github.com/Adhithya2403/SOLUTION/tree/main/1927-sum-game/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Adhithya2403/SOLUTION/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Adhithya2403/SOLUTION/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -242,6 +244,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhithya2403/SOLUTION/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1603-design-parking-system](https://github.com/Adhithya2403/SOLUTION/tree/main/1603-design-parking-system/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Adhithya2403/SOLUTION/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |

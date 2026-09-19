@@ -72,6 +72,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adhithya2403/SOLUTION/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Adhithya2403/SOLUTION/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adhithya2403/SOLUTION/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -108,6 +109,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adhithya2403/SOLUTION/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adhithya2403/SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -261,6 +263,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adhithya2403/SOLUTION/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

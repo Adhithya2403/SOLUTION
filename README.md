@@ -99,6 +99,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Adhithya2403/SOLUTION/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adhithya2403/SOLUTION/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2103-rings-and-rods](https://github.com/Adhithya2403/SOLUTION/tree/main/2103-rings-and-rods/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adhithya2403/SOLUTION/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adhithya2403/SOLUTION/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Adhithya2403/SOLUTION/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -170,6 +171,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Adhithya2403/SOLUTION/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Adhithya2403/SOLUTION/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2103-rings-and-rods](https://github.com/Adhithya2403/SOLUTION/tree/main/2103-rings-and-rods/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adhithya2403/SOLUTION/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Adhithya2403/SOLUTION/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |

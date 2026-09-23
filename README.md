@@ -60,6 +60,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3151-special-array-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adhithya2403/SOLUTION/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adhithya2403/SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Adhithya2403/SOLUTION/tree/main/3248-snake-in-matrix/) | Easy |
@@ -111,6 +112,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adhithya2403/SOLUTION/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adhithya2403/SOLUTION/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adhithya2403/SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adhithya2403/SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adhithya2403/SOLUTION/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -273,6 +275,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adhithya2403/SOLUTION/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adhithya2403/SOLUTION/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhithya2403/SOLUTION/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Adhithya2403/SOLUTION/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Adhithya2403/SOLUTION/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
